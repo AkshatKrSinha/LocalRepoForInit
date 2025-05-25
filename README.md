@@ -3,3 +3,6 @@ I just made this on my local machine and pushed it to remote for the purpose of 
 
 <br>
 Changes made in Feature1 branch Readme.
+
+<br>
+Changes made in the Feature2 Readme.
